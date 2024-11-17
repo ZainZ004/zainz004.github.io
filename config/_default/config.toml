@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "zainz004.github.io"
+baseurl = "https://zainz004.github.io"
 languageCode = "en-us"
 title = "Zain's Hugo Test"
 
